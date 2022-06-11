@@ -1,24 +1,24 @@
 {
         "response": [
                 {
-                        "maintainer": "Ken_kaneki_69(Paras)",
+                        "maintainer": "ben863 (cbendot)",
                         "oem": "Asus",
                         "device": "Asus Zenfone Max Pro M1",
-                        "filename": "crDroidAndroid-11.0-20220413-X00TD-v7.17.zip",
-                        "download": "https://sourceforge.net/projects/crdroid/files/X00TD/7.x/crDroidAndroid-11.0-20220413-X00TD-v7.17.zip/download",
-                        "timestamp": 1649863615,
-                        "md5": "c419e0ca1db9ee26312939b8c684a7af",
-                        "size": 882161076,
-                        "version": "7.17",
+                        "filename": "crDroidAndroid-11.0-20220607-X00TD-v7.18.zip",
+                        "download": "https://roms.cirrus-ci.workers.dev/0:/X00TD/crDroidAndroid-11.0-20220607-X00TD-v7.18.zip",
+                        "timestamp": 1654574737,
+                        "md5": "1c06fff9017de4cdd1e38dc240ad4fc0",
+                        "size": 875828589,
+                        "version": "7.18",
                         "buildtype": "EOL",
-                        "forum": "https://t.me/mst_uploads_X00T",
+                        "forum": "https://t.me/elasticsperf",
                         "gapps": "https://sourceforge.net/projects/nikgapps/files/Canary-Releases/Addons-R/",
                         "firmware": "https://telegra.ph/Firmware-For-X00TD-Max-Pro-M1-06-07",
                         "modem": "",
                         "bootloader": "",
                         "recovery": "https://forum.xda-developers.com/t/recovery-x00t-kudprojects-unofficial-twrp-3-4-0-0-16-06-2020.3888110/",
-                        "paypal": "https://paypal.me/luffymst?locale.x=en_GB",
-                        "telegram": "https://t.me/mst_roms_X00T"
+                        "paypal": "https://paypal.me/cbendot?locale.x=en_GB",
+                        "telegram": "https://t.me/ElasticsPerfDiscus"
                 }
         ]
 }
