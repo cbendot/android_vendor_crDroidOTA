@@ -4,8 +4,15 @@ Device: Zenfone Max Pro M1 (X00TD)
 Device maintainer: ben863 (cbendot)
 Required firmware: 063+
 
+==== 11th June, 2022 ====
+- Rollback to oreo build fingerprint
+- Update Graphics (OpenGL ES) and (Vulkan) from LA.UM.8.2.r1-07400-sdm660
+- Update FM and Listen blobs from ddv_sprout
+- ESE Powermanager fix and Update from ddv_sprout
+- Add display config
+- Kernel swicth to eas branch
+
+NOTE: Thanks To @Apon77 and All Developers whose the commits i picked :-)
+
 ==== 09th June, 2022 ====
 - Initial Unofficial Build
-
-NOTE: Thanks To @Apon77. for Awesome server :-)
-      Thanks To All Developers whose the commits i picked :-)
