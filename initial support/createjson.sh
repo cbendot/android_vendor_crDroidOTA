@@ -44,7 +44,7 @@ echo '{
         "oem": "'$oem'",
         "device": "'$devicename'",
         "filename": "'$zip_only'",
-        "download": "https://sourceforge.net/projects/crdroid/files/'$device'/'$v_max'.x/'$zip_only'/download",
+        "download": "https://roms.cirrus-ci.workers.dev/0:/'$device'/'$zip_only'",
         "timestamp": '$timestamp',
         "md5": "'$md5'",
         "size": '$size',
