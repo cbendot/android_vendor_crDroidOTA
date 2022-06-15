@@ -4,6 +4,13 @@ Device: Zenfone Max Pro M1 (X00TD)
 Device maintainer: ben863 (cbendot)
 Required firmware: 063+
 
+==== 15th June, 2022 ====
+- updated to crDroid 8.6 code
+- updated to sec. patch level 2022.06.05
+- use Google Raven build fingerprint
+
+NOTE: Thanks To @Apon77 and All Developers whose the commits i picked :-)
+
 ==== 11th June, 2022 ====
 - Rollback to oreo build fingerprint
 - Update Graphics (OpenGL ES) and (Vulkan) from LA.UM.8.2.r1-07400-sdm660
