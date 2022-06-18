@@ -4,6 +4,11 @@ Device: Zenfone Max Pro M1 (X00TD)
 Device maintainer: ben863 (cbendot)
 Required firmware: 063+
 
+==== 19 June, 2022 ====
+- sync last CrDroid source
+- merged June Security Patch
+- Build with Google Raven FP
+
 ==== 07 June, 2022 ====
 - Initial Unofficial Build
 

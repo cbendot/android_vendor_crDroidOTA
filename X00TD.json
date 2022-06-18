@@ -1,24 +1,24 @@
 {
-        "response": [
-                {
-                        "maintainer": "ben863 (cbendot)",
-                        "oem": "Asus",
-                        "device": "Asus Zenfone Max Pro M1",
-                        "filename": "crDroidAndroid-11.0-20220607-X00TD-v7.18.zip",
-                        "download": "https://roms.cirrus-ci.workers.dev/0:/X00TD/crDroidAndroid-11.0-20220607-X00TD-v7.18.zip",
-                        "timestamp": 1654574737,
-                        "md5": "1c06fff9017de4cdd1e38dc240ad4fc0",
-                        "size": 875828589,
-                        "version": "7.18",
-                        "buildtype": "EOL",
-                        "forum": "https://t.me/elasticsperf",
-                        "gapps": "https://sourceforge.net/projects/nikgapps/files/Canary-Releases/Addons-R/",
-                        "firmware": "https://telegra.ph/Firmware-For-X00TD-Max-Pro-M1-06-07",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "https://forum.xda-developers.com/t/recovery-x00t-kudprojects-unofficial-twrp-3-4-0-0-16-06-2020.3888110/",
-                        "paypal": "https://paypal.me/cbendot?locale.x=en_GB",
-                        "telegram": "https://t.me/ElasticsPerfDiscus"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "ben863 (cbendot)",
+			"oem": "Asus",
+			"device": "Asus Zenfone Max Pro M1",
+			"filename": "crDroidAndroid-11.0-20220619-X00TD-v7.19.zip",
+			"download": "https://roms.cirrus-ci.workers.dev/0:/X00TD/crDroidAndroid-11.0-20220619-X00TD-v7.19.zip",
+			"timestamp": 1655575352,
+			"md5": "5b4a620a9d88004fc43a1ec164604e6c",
+			"size": 875737432,
+			"version": "7.19",
+			"buildtype": "EOL",
+			"forum": "https://t.me/elasticsperf",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Canary-Releases/Addons-R/",
+			"firmware": "https://telegra.ph/Firmware-For-X00TD-Max-Pro-M1-06-07",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://forum.xda-developers.com/t/recovery-x00t-kudprojects-unofficial-twrp-3-4-0-0-16-06-2020.3888110/",
+			"paypal": "https://paypal.me/cbendot?locale.x=en_GB",
+			"telegram": "https://t.me/ElasticsPerfDiscus"
+		}
+	]
 }
