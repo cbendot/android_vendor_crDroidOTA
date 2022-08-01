@@ -4,6 +4,24 @@ Device: Zenfone Max Pro M1 (X00TD)
 Device maintainer: ben863 (cbendot)
 Required firmware: 063+
 
+==== 16th July, 2022 ====
+- updated to crDroid 8.7 code
+- updated to sec. patch level 2022.07.05
+- updated perf blobs from SLD_sprout
+- replace ddv_sprout to SLD_sprout
+- rollback to Q build fingerprint
+- rollback to stock thermal blobs
+- use threaded GLES render engine
+- audio: rollback 16 bit profile for audio capture
+- audio: unify audio configuration files
+- audio: add mixer controls and be updation in platform info
+- audio: add missing echo-reference paths
+- audio: add all routes for headphones-hifi-filter
+- audio: use volume curves from stock (UL-ASUS_X00T-WW-16.2017.2009.087)
+- audio: add offload gapless support flag
+- audio: use qcom implementation for sw effects
+- enable config_avoidGfxAccel for 3GB variants
+
 ==== 15th June, 2022 ====
 - updated to crDroid 8.6 code
 - updated to sec. patch level 2022.06.05
