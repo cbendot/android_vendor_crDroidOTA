@@ -1,14 +1,18 @@
 Highlights & Device Specific Changes:
-Build type: Beta
-Device: Le Max 2 (x2)
-Device maintainer: Kelvium (Kelvium)
+Build type: Monthly
+Device: Realme X2 (X2)
+Device maintainer: Damian (Retypolkg)
 
-===== 8 January 2021 =====
-- Upstream to 7.2
-- Fix call sound issue
+===== 30.09.2021 =====
+- switch to AOSP WFD
+- WFD fixed
+- Ok google/Hey google fixed
+- FOD recognized animation fixed
 
-===== 23 December 2020 =====
-- Upstream to 7.1
+===== 15.09.2021 =====
+- compile kernel with proton clang
+- switch to walleye fp
+- update aptX blobs from coral-user-11-RP1A.201005.004-6782484
 
-===== 24 November 2020 =====
-- Initial build (7.0)
+===== 21.08.2021 =====
+- initial build

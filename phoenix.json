@@ -1,24 +1,24 @@
 {
 	"response": [
 		{
-			"maintainer": "SharmaG",
-			"oem": "Poco",
-			"device": "POCO X2",
-			"filename": "crDroidAndroid-11.0-20220407-phoenix-v7.16.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/phoenix/7.x/crDroidAndroid-11.0-20220407-phoenix-v7.16.zip/download",
-			"timestamp": 1649354108,
-			"md5": "f30d47473448af018d41eb5cb5f56bd1",
-			"size": 1399983229,
-			"version": "7.16",
+			"maintainer": "",
+			"oem": "Nokia",
+			"device": "Nokia 8.1",
+			"filename": "crDroidAndroid-11.0-20211012-Phoenix-v7.11.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/Phoenix/7.x/crDroidAndroid-11.0-20211012-Phoenix-v7.11.zip/download",
+			"timestamp": 1634059775,
+			"md5": "0acdd355b2426eaaebf622e3f9b76544",
+			"size": 752263665,
+			"version": "7.11",
 			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-11-0-official-crdroid-v7.4210283",
-			"gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/",
-			"firmware": "https://sourceforge.net/projects/crdroid/files/phoenix/7.x/firmware/fw_phoenix_miui_PHOENIX_21.7.21.zip/download",
+			"forum": "https://forum.xda-developers.com/t/rom-11-0-official-crdroid-v7-10-phoenix.4320963/",
+			"gapps": "",
+			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/crdroid/files/phoenix/7.x/recovery/OrangeFox-phoenix-stable@R11.1_1.zip/download",
-			"paypal": "https://www.paypal.me/sharmag04",
-			"telegram": "https://t.me/crDroidPocoX2"
+			"recovery": "https://forum.xda-developers.com/t/recovery-unofficial-phoenix-pbrp-3-1-0-pitchblack-recovery-project.4334479/",
+			"paypal": "",
+			"telegram": ""
 		}
 	]
 }

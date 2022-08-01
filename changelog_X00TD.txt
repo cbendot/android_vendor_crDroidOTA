@@ -5,9 +5,11 @@ Device maintainer: ben863 (cbendot)
 Required firmware: 063+
 
 ==== 19 June, 2022 ====
-- sync last CrDroid source
+- updated to 7.19 CrDroid code
 - merged June Security Patch
 - Build with Google Raven FP
+
+Note: Big Thanks To @Paritosh_1590 for expert tester and All Developers whose the commits i picked :-)
 
 ==== 07 June, 2022 ====
 - Initial Unofficial Build

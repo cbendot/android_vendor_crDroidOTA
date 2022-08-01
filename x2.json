@@ -2,23 +2,23 @@
 	"response": [
 		{
 			"maintainer": "",
-			"oem": "LeEco",
-			"device": "LeEco Le Max 2",
-			"filename": "crDroidAndroid-11.0-20210107-x2-v7.2.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/x2/7.x/crDroidAndroid-11.0-20210107-x2-v7.2.zip/download",
-			"timestamp": 1610052235,
-			"md5": "11a4c9e4e2e780e2dd33d0af3abc1e2e",
-			"size": 773190807,
-			"version": "7.2",
-			"buildtype": "Beta",
-			"forum": "https://forum.xda-developers.com/le-max-2/how-to/rom-crdroidandroid-t4194711",
-			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R/",
+			"oem": "Realme",
+			"device": "Realme X2",
+			"filename": "crDroidAndroid-11.0-20210930-X2-v7.10.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/X2/7.x/crDroidAndroid-11.0-20210930-X2-v7.10.zip/download",
+			"timestamp": 1633027987,
+			"md5": "4d220ac15ba1ae92987fa26da75112f2",
+			"size": 857432798,
+			"version": "7.10",
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-11-0-crdroid-android-7-9-official.4322543/",
+			"gapps": "https://opengapps.org/",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "https://twrp.me/leeco/leecolemax2.html",
-			"paypal": "",
-			"telegram": "https://t.me/crdroidx2"
+			"recovery": "https://orangefox.download/device/rmx1992",
+			"paypal": "https://www.paypal.com/paypalme/retypolkg",
+			"telegram": ""
 		}
 	]
 }
