@@ -1,8 +1,0 @@
-Highlights & Device Specific Changes:
-Build type: Monthly / Beta
-Device: Redmi Note 9 Pro Series (miatoll)
-Device maintainer: Mohammad Nobakht (Mohammad Nt)
-Required firmware: V12.5.5.0.RJZMIXM
-
-===== 23 April, 2022 =====
-* Upstreamed to May 2022 security patch
