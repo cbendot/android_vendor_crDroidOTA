@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "Simone Esposito (DarkJoker360)",
+			"maintainer": "ben863 (cbendot)",
 			"oem": "Redmi",
 			"device": "Redmi Note 8/8T",
-			"filename": "crDroidAndroid-12.1-20220516-ginkgo-v8.5.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/ginkgo/8.x/crDroidAndroid-12.1-20220516-ginkgo-v8.5.zip/download",
-			"timestamp": 1652703970,
-			"md5": "479bee03b7fa3df9b3b595842d214004",
-			"sha256": "1ad781035b40115239f631e290e5c514100e806399e4d6f0e1558dc9c08d6b53",
-			"size": 1173290499,
-			"version": "8.5",
+			"filename": "crDroidAndroid-12.1-20220826-ginkgo-v8.8.zip",
+			"download": "https://roms.cirrus-ci.workers.dev/0:/ginkgo/crDroidAndroid-12.1-20220826-ginkgo-v8.8.zip",
+			"timestamp": 1661487595,
+			"md5": "a23ec8c1d458894a856b1235cc993e0e",
+			"sha256": "c27f4f8149707eb19a0241c0db4b0866b1ffbd9bfd2375a69b16510f82e3a16e",
+			"size": 1166801906,
+			"version": "8.8",
 			"buildtype": "Monthly",
-			"forum": "https://forum.xda-developers.com/t/rom-ginkgo-12-0-crdroidandroid-v8-x.4403751/",
-			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/",
-			"firmware": "",
+			"forum": "https://forum.xda-developers.com/f/redmi-note-8-roms-kernels-recoveries-other-de.9204/",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/",
+			"firmware": "https://xiaomifirmwareupdater.com/archive/firmware/ginkgo/",
 			"modem": "",
 			"bootloader": "",
-			"recovery": "",
-			"paypal": "https://www.paypal.com/paypalme/Martiriggiano",
-			"telegram": "https://t.me/crdroidredminote8",
-			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_ginkgo",
+			"recovery": "https://androidfilehost.com/?fid=15664248565197188075",
+			"paypal": "https://www.paypal.com/paypalme/cbendot",
+			"telegram": "https://t.me/ben863",
+			"dt": "https://github.com/cbendot/android_device_xiaomi_ginkgo",
 			"common-dt": "",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_ginkgo"
+			"kernel": "https://github.com/cbendot/android_kernel_xiaomi_ginkgo"
 		}
 	]
 }
