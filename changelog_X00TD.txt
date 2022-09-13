@@ -4,6 +4,12 @@ Device: Zenfone Max Pro M1 (X00TD)
 Device maintainer: ben863 (cbendot)
 Required firmware: 063+
 
+==== 13th September, 2022 ====
+- update to crDroid 8.9 code
+- update to sec. patch level 2022.09.05
+- aosp version android-12.1.0_r22
+- add support for local updates
+
 ==== 13th August, 2022 ====
 - updated to crDroid 8.8 code
 - updated to sec. patch level 2022.08.05
